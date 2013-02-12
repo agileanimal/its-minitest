@@ -4,6 +4,10 @@ I miss ```its``` in minitest so here's a hack to get it back in.
 
 Right now it doesn't support the array syntax for its.
 
+## Status 
+[![Gem Version](https://badge.fury.io/rb/its-minitest.png)](http://badge.fury.io/rb/its-minitest)
+[![Build Status](https://travis-ci.org/agileanimal/its-minitest.png?branch=master)](https://travis-ci.org/agileanimal/its-minitest)
+
 ## Installation
 
 Add this line to your application's Gemfile:
