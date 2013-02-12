@@ -1,4 +1,7 @@
-require 'spec_helper'
+require_relative "spec_helper"
+require 'minitest/spec'
+require 'minitest/autorun'  # arranges for minitest to run (in an exit handler, so it runs last)
+
 
 describe ItsMinitest do
 

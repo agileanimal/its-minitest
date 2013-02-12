@@ -1,2 +1,4 @@
-$LOAD_PATH.unshift File.expand_path('../../lib', __FILE__)
-require 'its-minitest'
+require 'rubygems'
+require 'bundler'
+
+Bundler.require :default, :test
