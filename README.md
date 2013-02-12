@@ -1,6 +1,8 @@
-# Its::Minitest
+# Its Minitest
 
-TODO: Write a gem description
+I miss ```its``` in minitest so here's a hack to get it back in.
+
+Right now it doesn't support the array syntax for its.
 
 ## Installation
 
